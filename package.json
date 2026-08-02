@@ -1,0 +1,14 @@
+{
+  "name": "health-workout-service",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5"
+  }
+}
